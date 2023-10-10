@@ -1,0 +1,17 @@
+{
+  "email_message": {
+    "sender": {
+      "name": "Juan Pérez",
+      "email": "juan.perez@example.com"
+    },
+    "recipient": {
+      "name": "María López",
+      "email": "maria.lopez@example.com"
+    },
+    "subject": "Work Meeting",
+    "text_content": {
+      "paragraph1": "Hello María,\n\nI hope you are well. I wanted to talk to you about the upcoming work meeting scheduled for Friday at 10:00 AM. Can you confirm your attendance?",
+      "paragraph2": "Thank you,\nJuan"
+    }
+  }
+}

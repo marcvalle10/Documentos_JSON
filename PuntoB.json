@@ -1,0 +1,34 @@
+{
+  "menu_items": [
+    {
+      "item_name": "Belgian Waffles",
+      "item_price": "5.95",
+      "item_description": "Two of our famous Belgian waffles with ample syrup",
+      "item_calories": "650"
+    },
+    {
+      "item_name": "Belgian Waffles with Strawberries",
+      "item_price": "7.95",
+      "item_description": "Light Belgian waffles topped with strawberries and whipped cream",
+      "item_calories": "900"
+    },
+    {
+      "item_name": "Belgian Waffles with Forest Berries",
+      "item_price": "8.95",
+      "item_description": "Light Belgian waffles covered in forest berries and whipped cream",
+      "item_calories": "900"
+    },
+    {
+      "item_name": "French Toast",
+      "item_price": "4.50",
+      "item_description": "Two thick slices of our homemade French bread",
+      "item_calories": "600"
+    },
+    {
+      "item_name": "House Breakfast",
+      "item_price": "6.95",
+      "item_description": "Two eggs, bacon or sausage, toast, and fries",
+      "item_calories": "950"
+    }
+  ]
+}

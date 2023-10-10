@@ -1,0 +1,33 @@
+{
+  "business_contact_info": {
+    "business_name": ""
+  },
+  "invoice_details": [
+    {
+      "invoice_number": "",
+      "date": "",
+      "payment_terms": ""
+    },
+    {
+      "invoice_number": "",
+      "date": "",
+      "payment_terms": ""
+    }
+  ],
+  "goods_or_services_description": [
+    {
+      "product_or_service": "",
+      "description": "",
+      "hours": 1,
+      "rate": 1,
+      "amount": 1
+    },
+    {
+      "product_or_service": "",
+      "description": "",
+      "hours": 1,
+      "rate": 1,
+      "amount": 1
+    }
+  ]
+}
